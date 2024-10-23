@@ -1,17 +1,13 @@
-p{
-  color:red;
+p {
+    color: red; /* Couleur du texte rouge */
 }
-body {
-    background-image: url('background-christmas-gifts.webp'); /* Utilisation de l'image .webp */
-    background-size: cover; /* L'image couvre tout l'écran */
-    background-position: center; /* L'image est centrée */
-    background-repeat: no-repeat; /* Pas de répétition de l'image */
-}
+
 html, body {
-    height: 100vh; /* L'élément <html> et <body> prennent toute la hauteur de la fenêtre */
+    height: 100vh; /* Prendre toute la hauteur de la fenêtre */
     margin: 0;    /* Supprime les marges par défaut du navigateur */
     padding: 0;   /* Supprime les paddings par défaut du navigateur */
 }
+
 body {
     background-image: url('background-christmas-gifts.webp'); /* Utilisation de l'image .webp */
     background-size: cover; /* L'image couvre tout l'écran */
