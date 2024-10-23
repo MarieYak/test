@@ -1,3 +1,9 @@
 p{
   color:red;
 }
+body {
+    background-image: url('background-christmas-gifts.webp'); /* Utilisation de l'image .webp */
+    background-size: cover; /* L'image couvre tout l'écran */
+    background-position: center; /* L'image est centrée */
+    background-repeat: no-repeat; /* Pas de répétition de l'image */
+}
